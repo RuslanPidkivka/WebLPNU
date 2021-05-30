@@ -1,0 +1,2729 @@
+.Dashboard {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 421;
+}
+.Stock {
+  position: absolute;
+  left: 80px;
+  top: 120px;
+  width: 1440px;
+  height: 960px;
+  z-index: 420;
+}
+.Right {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 379;
+}
+.Recent_Transactions {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 378;
+}
+.Rotator {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 377;
+}
+.Ellipse_4_copy {
+  border-radius: 50%;
+  background-color: rgb(58, 78, 99);
+  position: absolute;
+  left: 32px;
+  top: 313px;
+  width: 8px;
+  height: 8px;
+  z-index: 376;
+}
+.Ellipse_4 {
+  background-color: rgb(28, 41, 55);
+  position: absolute;
+  left: 34px;
+  top: 313px;
+  width: 20px;
+  height: 8px;
+  z-index: 375;
+}
+.BTN {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 373;
+}
+.View_All {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 191.901px;
+  top: 308.1px;
+  z-index: 372;
+}
+.RecentTransactions1 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 28.937px;
+  top: 27.1px;
+  z-index: 370;
+}
+._3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 369;
+}
+.DAte {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 368;
+}
+.Apr1{
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 44.882px;
+  top: 260.694px;
+  z-index: 367;
+}
+._29 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 46.293px;
+  top: 243.6px;
+  z-index: 366;
+}
+.Ellipse_31 {
+  border-radius: 50%;
+  background-image: -moz-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  background-image: -webkit-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  background-image: -ms-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  position: absolute;
+  left: 31px;
+  top: 235px;
+  width: 48px;
+  height: 48px;
+  z-index: 365;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 363;
+}
+.Polygon_21 {
+  color: rgb(255, 97, 97);
+  position: absolute;
+  left: 224px;
+  top: 245px;
+  width: 10px;
+  height: 5px;
+  z-index: 362;
+}
+._324_78_TL1{
+  font-size: 16px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.98px;
+  top: 258.946px;
+  z-index: 361;
+}
+.CarrefourSA {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.937px;
+  top: 240.1px;
+  z-index: 360;
+}
+.BTNs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 358;
+}
+._2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 355;
+}
+.DAte {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 354;
+}
+.Apr2 {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 44.882px;
+  top: 182.694px;
+  z-index: 353;
+}
+._30 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 46.35px;
+  top: 165.6px;
+  z-index: 352;
+}
+.Ellipse_32 {
+  border-radius: 50%;
+  background-image: -moz-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  background-image: -webkit-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  background-image: -ms-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  position: absolute;
+  left: 31px;
+  top: 157px;
+  width: 48px;
+  height: 48px;
+  z-index: 351;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 349;
+}
+.Polygon_222 {
+  color:rgb(153, 255, 97);
+  position: absolute;
+  left: 224px;
+  top: 162px;
+  width: 10px;
+  height: 5px;
+  z-index: 348;
+}
+._12_000_00_TL {
+  font-size: 16px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.05px;
+  top: 180.946px;
+  z-index: 347;
+}
+.Salary {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.134px;
+  top: 161.85px;
+  z-index: 346;
+}
+.BTNs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 344;
+}
+._1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 341;
+}
+.DAte {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 340;
+}
+.Today {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 34.795px;
+  top: 93.85px;
+  z-index: 339;
+}
+.Ellipse_33 {
+  border-radius: 50%;
+  background-image: -moz-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  background-image: -webkit-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  background-image: -ms-linear-gradient( 69deg, rgb(254,93,131) 0%, rgb(255,168,100) 100%);
+  position: absolute;
+  left: 31px;
+  top: 79px;
+  width: 48px;
+  height: 48px;
+  z-index: 338;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 336;
+}
+.Polygon_23{
+  color: rgb(255, 97, 97);
+  position: absolute;
+  left: 224px;
+  top: 89px;
+  width: 10px;
+  height: 5px;
+  z-index: 335;
+}
+._12_00_TL {
+  font-size: 16px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.05px;
+  top: 102.946px;
+  z-index: 334;
+}
+.Starbucks {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.134px;
+  top: 84.1px;
+  z-index: 333;
+}
+.BTNs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 331;
+}
+.Recurring_Payments {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 327;
+}
+.Rotator {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 326;
+}
+.Ellipse_44_copy {
+  border-radius: 50%;
+  background-color: rgb(58, 78, 99);
+  position: absolute;
+  left: 32px;
+  top: 444px;
+  width: 8px;
+  height: 8px;
+  z-index: 325;
+}
+.Ellipse_44 {
+  background-color: rgb(28, 41, 55);
+  position: absolute;
+  left: 44px;
+  top: 444px;
+  width: 20px;
+  height: 8px;
+  z-index: 324;
+}
+.BTN {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 322;
+}
+.View_All1 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 191.901px;
+  top: 439.1px;
+  z-index: 321;
+}
+._3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 319;
+}
+.DAte {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 318;
+}
+.Jun1 {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 43.456px;
+  top: 347.8px;
+  z-index: 317;
+}
+._01 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 46.937px;
+  top: 330.6px;
+  z-index: 316;
+}
+.Ellipse_35 {
+  border-radius: 50%;
+  background-image: -moz-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  background-image: -webkit-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  background-image: -ms-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  position: absolute;
+  left: 31px;
+  top: 323px;
+  width: 48px;
+  height: 48px;
+  z-index: 315;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 313;
+}
+._70_00_TL {
+  font-size: 16px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.844px;
+  top: 398.946px;
+  z-index: 312;
+}
+.Ut_enim_ad_minim_venim__quis_nostrud_exercitati {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.502);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.937px;
+  top: 342.792px;
+  z-index: 311;
+}
+.Phone_Bill {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.937px;
+  top: 321.1px;
+  z-index: 310;
+}
+.BTNs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 308;
+}
+._2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 305;
+}
+.DAte {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 304;
+}
+.May1 {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 42.937px;
+  top: 231.792px;
+  z-index: 303;
+}
+._22 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 44.293px;
+  top: 214.1px;
+  z-index: 302;
+}
+.Ellipse_34 {
+  border-radius: 50%;
+  background-image: -moz-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  background-image: -webkit-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  background-image: -ms-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  position: absolute;
+  left: 31px;
+  top: 207px;
+  width: 48px;
+  height: 48px;
+  z-index: 301;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 299;
+}
+._2_800_00_TL {
+  font-size: 16px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.916px;
+  top: 267.946px;
+  z-index: 298;
+}
+.Eiusmod_tempor_incididu_ut_labore_et_dolore_ {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.502);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.937px;
+  top: 228.792px;
+  z-index: 297;
+}
+.House_Rent {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.937px;
+  top: 205.1px;
+  z-index: 296;
+}
+.BTNs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 294;
+}
+._1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 291;
+}
+.DAte {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 290;
+}
+.May {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 42.937px;
+  top: 100.792px;
+  z-index: 289;
+}
+._08 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 45.937px;
+  top: 83.6px;
+  z-index: 288;
+}
+.Ellipse_36 {
+  border-radius: 50%;
+  background-image: -moz-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  background-image: -webkit-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  background-image: -ms-linear-gradient( 53deg, rgb(16,192,198) 0%, rgb(132,250,132) 100%);
+  position: absolute;
+  left: 31px;
+  top: 76px;
+  width: 48px;
+  height: 48px;
+  z-index: 287;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 285;
+}
+._186_00_TL {
+  font-size: 16px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 96.05px;
+  top: 151.946px;
+  z-index: 284;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.502);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.937px;
+  top: 95.792px;
+  z-index: 283;
+}
+.Utility_Bill {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 97.937px;
+  top: 73.85px;
+  z-index: 282;
+}
+.BTNs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 280;
+}
+.RecurringPayments {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 28.937px;
+  top: 25.85px;
+  z-index: 277;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 275;
+}
+.Rounded_Rectangle1_3 {
+  background-color: rgb(37, 52, 67);
+  position: absolute;
+  left: 1176px;
+  top: 73px;
+  width: 264px;
+  height: 472px;
+  z-index: 274;
+}
+.Rounded_Rectangle1_3_copy{
+  background-color: rgb(37, 52, 67);
+  position: absolute;
+  left: 1176px;
+  top: 547px;
+  width: 264px;
+  height: 343px;
+  z-index: 273;
+}
+.QuickTransfer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 270;
+}
+.Persons {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 269;
+}
+._3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 268;
+}
+.Input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 267;
+}
+.Shape_71 {
+  background-color: rgb(137, 153, 169);
+  opacity: 0.2;
+  position: absolute;
+  left: 216px;
+  top: 46px;
+  width: 113px;
+  height: 2px;
+  z-index: 266;
+}
+._00_00_TL1 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 268.937px;
+  top: 27.85px;
+  z-index: 265;
+}
+.Send1 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 347.133px;
+  top: 28.6px;
+  z-index: 263;
+}
+.Account {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 262;
+}
+.Salim_Tornacı {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 92.795px;
+  top: 21.85px;
+  z-index: 261;
+}
+.Pic {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 260;
+}
+.Ellipse_55_copy_2 {
+  border-radius: 50%;
+  background-color: rgb(89, 41, 176);
+  opacity: 0.502;
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 259;
+}
+.Ellipse_55_copy {
+  border-radius: 50%;
+  background-color: rgb(215, 68, 195);
+  opacity: 0.2;
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 258;
+}
+.Ellipse_55 {
+  border-radius: 50%;
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 257;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 254;
+}
+.Rounded_Rectangle_33{
+  border-radius: 4px;
+  background-color: rgb(35, 45, 56);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 735px;
+  top: 814px;
+  width: 411px;
+  height: 76px;
+  z-index: 253;
+}
+._2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 250;
+}
+.Input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 249;
+}
+.Shape_72 {
+  background-color: rgb(137, 153, 169);
+  opacity: 0.2;
+  position: absolute;
+  left: 216px;
+  top: 46px;
+  width: 113px;
+  height: 2px;
+  z-index: 248;
+}
+._00_00_TL2 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 268.937px;
+  top: 27.85px;
+  z-index: 247;
+}
+.Send2 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 347.133px;
+  top: 28.6px;
+  z-index: 245;
+}
+.Account {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 244;
+}
+.Tuğrul_Küçükmustafa {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 92.795px;
+  top: 21.85px;
+  z-index: 243;
+}
+.Pic {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 242;
+}
+.Ellipse_555_copy_2 {
+  border-radius: 50%;
+  background-color: rgb(89, 41, 176);
+  opacity: 0.502;
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 241;
+}
+.Ellipse_555_copy {
+  border-radius: 50%;
+  background-color: rgb(215, 68, 195);
+  opacity: 0.2;
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 240;
+}
+.Ellipse_555 {
+  border-radius: 50%;
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 239;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 236;
+}
+.Rounded_Rectangle_333 {
+  border-radius: 4px;
+  background-color: rgb(35, 45, 56);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 735px;
+  top: 734px;
+  width: 411px;
+  height: 76px;
+  z-index: 235;
+}
+._1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 232;
+}
+.Input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 231;
+}
+.Shape_73 {
+  background-color: rgb(137, 153, 169);
+  opacity: 0.2;
+  position: absolute;
+  left: 216px;
+  top: 46px;
+  width: 113px;
+  height: 2px;
+  z-index: 230;
+}
+._00_00_TL3 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 268.937px;
+  top: 27.85px;
+  z-index: 229;
+}
+.Send3 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 347.133px;
+  top: 28.6px;
+  z-index: 227;
+}
+.Account {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 226;
+}
+.Alper_Tornacı {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 92.923px;
+  top: 22.82px;
+  z-index: 225;
+}
+.Pic {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 224;
+}
+.Ellipse_5_copy_2 {
+  border-radius: 50%;
+  background-color: rgb(89, 41, 176);
+  opacity: 0.502;
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 223;
+}
+.Ellipse_5_copy {
+  border-radius: 50%;
+  background-color: rgb(215, 68, 195);
+  opacity: 0.2;
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 222;
+}
+.Ellipse_5 {
+  border-radius: 50%;
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 21px;
+  top: 12px;
+  width: 53px;
+  height: 53px;
+  z-index: 221;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 218;
+}
+.Rounded_Rectangle_31 {
+  border-radius: 4px;
+  background-color: rgb(35, 45, 56);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 735px;
+  top: 654px;
+  width: 411px;
+  height: 76px;
+  z-index: 217;
+}
+.CreditCards {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 212;
+}
+.Credit_Cards {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 27.937px;
+  top: 21.6px;
+  z-index: 211;
+}
+.Swipe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 210;
+}
+.Shape_5_copy {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 307px;
+  top: 248px;
+  width: 15px;
+  height: 15px;
+  z-index: 209;
+}
+.Shape_5 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 67px;
+  top: 247px;
+  width: 15px;
+  height: 15px;
+  z-index: 208;
+}
+.BTN2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 206;
+}
+.Activity {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 281.937px;
+  top: 471.85px;
+  z-index: 205;
+}
+.Rounded_Rectangle_6_copy {
+	border-radius:50px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(0, 138, 255);
+  background-color: rgba(229, 179, 135, 0);
+  position: absolute;
+  left: 218px;
+  top: 455px;
+  width: 173px;
+  height: 48px;
+  z-index: 204;
+}
+.BTN1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 202;
+}
+.Pay_the_Debt {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 61.938px;
+  top: 471.85px;
+  z-index: 201;
+}
+.Rounded_Rectangle_61 {
+  border-style: solid;
+  border-radius:50px;
+  border-width: 2px;
+  border-color: rgb(0, 138, 255);
+  background-color: rgba(229, 179, 135, 0);
+  position: absolute;
+  left: 18px;
+  top: 455px;
+  width: 173px;
+  height: 48px;
+  z-index: 200;
+}
+.Cards {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 198;
+}
+.Selected {
+  position: absolute;
+  left: 881px;
+  top: 299px;
+  width: 280px;
+  height: 160px;
+  z-index: 197;
+}
+.Text {
+  position: absolute;
+  left: -881px;
+  top: -299px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 195;
+}
+._07_20 {
+  font-size: 12px;
+  font-family: "OCRAStd";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  left: 216.937px;
+  top: 126.3px;
+  z-index: 194;
+}
+.ERTUGRUL_CEVAHIR {
+  font-size: 12px;
+  font-family: "OCRAStd";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  left: 17.937px;
+  top: 126.3px;
+  z-index: 193;
+}
+._1234_5678_2364_4568_ {
+  font-size: 16px;
+  font-family: "OCRAStd";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  left: 29.05px;
+  top: 69.4px;
+  z-index: 192;
+}
+.Light {
+  position: absolute;
+  left: -881px;
+  top: -299px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 190;
+}
+.Shape4 {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.051;
+  position: absolute;
+  left: 716px;
+  top: 137px;
+  width: 509px;
+  height: 396px;
+  z-index: 189;
+}
+.Shape3_copy {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.102;
+  position: absolute;
+  left: 764px;
+  top: 137px;
+  width: 503px;
+  height: 509px;
+  z-index: 188;
+}
+.Shape3 {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.102;
+  position: absolute;
+  left: 698px;
+  top: 84px;
+  width: 631px;
+  height: 526px;
+  z-index: 187;
+}
+.Base {
+  position: absolute;
+  left: -881px;
+  top: -299px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 185;
+}
+.Rounded_Rectangle_5 {
+  border-radius: 10px;
+  background-image: -moz-linear-gradient( 69deg, rgb(251,71,71) 0%, rgb(201,66,245) 100%);
+  background-image: -webkit-linear-gradient( 69deg, rgb(251,71,71) 0%, rgb(201,66,245) 100%);
+  background-image: -ms-linear-gradient( 69deg, rgb(251,71,71) 0%, rgb(201,66,245) 100%);
+  box-shadow: 0px 46px 68px 0px rgba(0, 0, 0, 0.26);
+  position: absolute;
+  left: 66px;
+  top: 78px;
+  width: 280px;
+  height: 160px;
+  z-index: 184;
+}
+.CANVAS {
+  opacity: 0.051;
+  position: absolute;
+  left: 815px;
+  top: 203px;
+  width: 411px;
+  height: 524px;
+  z-index: 181;
+}
+.Rounded_Rectangle_5_copy_2 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -274px;
+  top: 96px;
+  width: 960px;
+  height: 160px;
+  z-index: 180;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 177;
+}
+.Maximum_Card {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 154.844px;
+  top: 254.6px;
+  z-index: 176;
+}
+._8_500_00_TL {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 268.9px;
+  top: 353.198px;
+  z-index: 175;
+}
+._03_05_2017 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 306.938px;
+  top: 412.6px;
+  z-index: 174;
+}
+.Cut_off_Date {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(137, 153, 169);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 27.937px;
+  top: 412.6px;
+  z-index: 173;
+}
+.Credit_Available {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(137, 153, 169);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 27.937px;
+  top: 357.6px;
+  z-index: 172;
+}
+._1_400_00_TL {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 270.491px;
+  top: 294.198px;
+  z-index: 171;
+}
+.Current_Debt {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(137, 153, 169);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 26.937px;
+  top: 297.6px;
+  z-index: 170;
+}
+.Rectangle1_2 {
+  background-color: rgb(25, 35, 44);
+  opacity: 0.2;
+  position: absolute;
+  left: 0px;
+  top: 335px;
+  width: 411px;
+  height: 60px;
+  z-index: 169;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 167;
+}
+.Rounded_Rectangle2_3_copy {
+  background-color: rgb(37, 52, 67);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 411px;
+  height: 58px;
+  z-index: 166;
+}
+.Rounded_Rectangle2_3 {
+  border-radius: 4px;
+  background-color: rgb(35, 45, 56);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 735px;
+  top: 101px;
+  width: 411px;
+  height: 523px;
+  z-index: 165;
+}
+.LoanCalculater {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 162;
+}
+.BTN2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 161;
+}
+.Payment_Plan {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 401.937px;
+  top: 324.85px;
+  z-index: 160;
+}
+.BTN1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 158;
+}
+.Resort_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 562.938px;
+  top: 325.1px;
+  z-index: 157;
+}
+.Rounded_Rectangle_6r {
+  border-style: solid;
+  border-radius:50px;
+  border-width: 2px;
+  border-color: rgb(0, 138, 255);
+  background-color: rgba(229, 179, 135, 0);
+  position: absolute;
+  left: 512px;
+  top: 308px;
+  width: 143px;
+  height: 48px;
+  z-index: 156;
+}
+.Sliders {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 154;
+}
+._3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 153;
+}
+.Input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 152;
+}
+.Installment_Amount {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(137, 153, 169);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 31.937px;
+  top: 299.1px;
+  z-index: 151;
+}
+.Shape_7_copy {
+  background-color: rgb(137, 153, 169);
+  opacity: 0.2;
+  position: absolute;
+  left: 178px;
+  top: 318px;
+  width: 173px;
+  height: 2px;
+  z-index: 150;
+}
+._TL {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 323.741px;
+  top: 293.5px;
+  z-index: 149;
+}
+.Slider {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 147;
+}
+.Ellipse_6 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.45);
+  position: absolute;
+  left: 25px;
+  top: 341px;
+  width: 16px;
+  height: 16px;
+  z-index: 146;
+}
+.Rounded_Rectangle_7_copy0_3 {
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 31px;
+  top: 347px;
+  width: 320px;
+  height: 4px;
+  z-index: 145;
+}
+._2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 142;
+}
+.Shape_5_copy_3 {
+  background-color: rgb(0, 138, 255);
+  position: absolute;
+  left: 339px;
+  top: 203px;
+  width: 12px;
+  height: 7px;
+  z-index: 141;
+}
+.Mount_s_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 274.844px;
+  top: 195.85px;
+  z-index: 140;
+}
+.Input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 139;
+}
+.Term {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(137, 153, 169);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 30.795px;
+  top: 193.1px;
+  z-index: 138;
+}
+.Shape_7_copy_2 {
+  background-color: rgb(137, 153, 169);
+  opacity: 0.2;
+  position: absolute;
+  left: 201px;
+  top: 212px;
+  width: 53px;
+  height: 2px;
+  z-index: 137;
+}
+._96 {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 229.871px;
+  top: 188px;
+  z-index: 136;
+}
+.Slider {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 134;
+}
+.Ellipse_600 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.45);
+  position: absolute;
+  left: 264px;
+  top: 235px;
+  width: 16px;
+  height: 16px;
+  z-index: 133;
+}
+.Rounded_Rectangle_7_copy_300 {
+  background-color: rgb(182, 212, 239);
+  position: absolute;
+  left: 31px;
+  top: 241px;
+  width: 242px;
+  height: 4px;
+  z-index: 132;
+}
+.Rounded_Rectangle_7_copy_301 {
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 31px;
+  top: 241px;
+  width: 320px;
+  height: 4px;
+  z-index: 131;
+}
+._1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 128;
+}
+.Input {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 127;
+}
+.Loan_Amount {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(137, 153, 169);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 31.937px;
+  top: 87.1px;
+  z-index: 126;
+}
+.Shape_7_coppy {
+  background-color: rgb(137, 153, 169);
+  opacity: 0.2;
+  position: absolute;
+  left: 178px;
+  top: 106px;
+  width: 173px;
+  height: 2px;
+  z-index: 125;
+}
+._120_000_00_TL {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 215.491px;
+  top: 81.198px;
+  z-index: 124;
+}
+.Slider {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 122;
+}
+.Ellipse_609 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.45);
+  position: absolute;
+  left: 164px;
+  top: 129px;
+  width: 16px;
+  height: 16px;
+  z-index: 121;
+}
+.Rounded_Rectangle_7_copy_302 {
+  background-color: rgb(182, 212, 239);
+  position: absolute;
+  left: 31px;
+  top: 135px;
+  width: 142px;
+  height: 4px;
+  z-index: 120;
+}
+.Rounded_Rectangle_7_copy_303 {
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 31px;
+  top: 135px;
+  width: 320px;
+  height: 4px;
+  z-index: 119;
+}
+.Details {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 115;
+}
+._3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 114;
+}
+._150_000_00_TL {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 499.491px;
+  top: 238.198px;
+  z-index: 113;
+}
+.Payback {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 391.937px;
+  top: 229.792px;
+  z-index: 112;
+}
+.RoundedRectangle_10 {
+  border-radius: 4px;
+  background-color: rgb(32, 42, 52);
+  position: absolute;
+  left: 382px;
+  top: 223px;
+  width: 273px;
+  height: 56px;
+  z-index: 111;
+}
+._2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 109;
+}
+._608_00_TL {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 540.87px;
+  top: 166.198px;
+  z-index: 108;
+}
+.Total_Cost {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 393.384px;
+  top: 157.8px;
+  z-index: 107;
+}
+.Rounded_Rectangle_10 {
+  border-radius: 4px;
+  background-color: rgb(32, 42, 52);
+  position: absolute;
+  left: 382px;
+  top: 151px;
+  width: 273px;
+  height: 56px;
+  z-index: 106;
+}
+._1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 104;
+}
+._1_55_ {
+  font-size: 20px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 580.491px;
+  top: 93.198px;
+  z-index: 103;
+}
+.Per_Annum_Rate {
+  font-size: 12px;
+  font-family: "MuseoSans";
+  color: rgba(137, 153, 169, 0.2);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 391.937px;
+  top: 85.8px;
+  z-index: 102;
+}
+.Rounded_Rectangle10 {
+  border-radius: 4px;
+  background-color: rgb(32, 42, 52);
+  position: absolute;
+  left: 382px;
+  top: 79px;
+  width: 273px;
+  height: 56px;
+  z-index: 101;
+}
+.Tab {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 98;
+}
+.Rectangle_10 {
+  background-color: rgb(0, 138, 255);
+  position: absolute;
+  left: 364px;
+  top: 53px;
+  width: 104px;
+  height: 2px;
+  z-index: 97;
+}
+.Mortgage {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 591.844px;
+  top: 17.85px;
+  z-index: 96;
+}
+.Auto_Loan {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 497.938px;
+  top: 18.1px;
+  z-index: 95;
+}
+.Consumer_Loan_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 363.938px;
+  top: 17.6px;
+  z-index: 94;
+}
+.Loan_Calculater {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 29.937px;
+  top: 18.6px;
+  z-index: 92;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 91;
+}
+.Rounded_Rectangle3_3_copy {
+  background-color: rgb(37, 52, 67);
+  position: absolute;
+  left: 0px;
+  top: -3px;
+  width: 676px;
+  height: 58px;
+  z-index: 90;
+}
+.Rounded_Rectangle_39 {
+  border-radius: 4px;
+  background-color: rgb(35, 45, 56);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 29px;
+  top: 508px;
+  width: 676px;
+  height: 382px;
+  z-index: 89;
+}
+.Balance {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 86;
+}
+.Bottom {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 85;
+}
+.USD {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 84;
+}
+.Rounded_Rectangle_71_copy_3 {
+  background-image: -moz-linear-gradient( 0deg, rgb(224,101,181) 0%, rgb(183,113,230) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgb(224,101,181) 0%, rgb(183,113,230) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgb(224,101,181) 0%, rgb(183,113,230) 100%);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  left: 515px;
+  top: 332px;
+  width: 22px;
+  height: 4px;
+  z-index: 83;
+}
+.Rounded_Rectangle_72_copy_3 {
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 515px;
+  top: 332px;
+  width: 140px;
+  height: 4px;
+  z-index: 82;
+}
+._20_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(25, 35, 44);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 570.293px;
+  top: 342.6px;
+  z-index: 81;
+}
+.USD_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(223, 101, 182);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 474.938px;
+  top: 325.6px;
+  z-index: 80;
+}
+.EURO {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 78;
+}
+.Rounded_Rectangle_71_copy_2 {
+  background-image: -moz-linear-gradient( 0deg, rgb(39,114,227) 0%, rgb(83,155,254) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgb(39,114,227) 0%, rgb(83,155,254) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgb(39,114,227) 0%, rgb(83,155,254) 100%);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  left: 287px;
+  top: 332px;
+  width: 40px;
+  height: 4px;
+  z-index: 77;
+}
+.Rounded_Rectangle_72_copy_2 {
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 287px;
+  top: 332px;
+  width: 140px;
+  height: 4px;
+  z-index: 76;
+}
+._30_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(25, 35, 44);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 343.35px;
+  top: 342.6px;
+  z-index: 75;
+}
+.EURO_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(14, 128, 246);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 236.937px;
+  top: 325.6px;
+  z-index: 74;
+}
+.TL {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 72;
+}
+.Rounded_Rectangle_71_copy {
+  background-image: -moz-linear-gradient( 0deg, rgb(32,219,182) 0%, rgb(55,228,254) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgb(32,219,182) 0%, rgb(55,228,254) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgb(32,219,182) 0%, rgb(55,228,254) 100%);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  left: 47px;
+  top: 332px;
+  width: 74px;
+  height: 4px;
+  z-index: 71;
+}
+.Rounded_Rectangle_71 {
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 47px;
+  top: 332px;
+  width: 140px;
+  height: 4px;
+  z-index: 70;
+}
+._50_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(25, 35, 44);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 103.35px;
+  top: 342.6px;
+  z-index: 69;
+}
+.TL__ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(21, 199, 205);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 18.795px;
+  top: 325.6px;
+  z-index: 68;
+}
+.Tab {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 65;
+}
+.Rectangle1_1 {
+  background-color: rgb(0, 138, 255);
+  position: absolute;
+  left: 500px;
+  top: 54px;
+  width: 46px;
+  height: 2px;
+  z-index: 64;
+}
+._USD_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 625.938px;
+  top: 18.6px;
+  z-index: 63;
+}
+._EURO_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 559.937px;
+  top: 18.6px;
+  z-index: 62;
+}
+._TL_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 513.795px;
+  top: 18.6px;
+  z-index: 61;
+}
+.Tooltip {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 59;
+}
+.Group_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 58;
+}
+.Polygon_1 {
+  background-color: rgb(250, 96, 116);
+  position: absolute;
+  left: 359px;
+  top: 158px;
+  width: 8px;
+  height: 5px;
+  z-index: 57;
+}
+._324_78_TL {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(250, 96, 116);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 376.35px;
+  top: 150.85px;
+  z-index: 56;
+}
+.Rounded_Rectangle_4 {
+  background-color: rgb(43, 64, 86);
+  box-shadow: 0px 8px 24.84px 2.16px rgba(0, 0, 0, 0.26);
+  position: absolute;
+  left: 328px;
+  top: 139px;
+  width: 143px;
+  height: 48px;
+  z-index: 54;
+}
+._52_850_00_TL {
+  font-size: 24px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 25.498px;
+  top: 80.596px;
+  z-index: 52;
+}
+.Balance_ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 28.937px;
+  top: 20.1px;
+  z-index: 51;
+}
+.Points {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 50;
+}
+.Ellipse_2_copy_3 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.1;
+  box-shadow: 0px 0px 72.24px 11.76px rgba(0, 0, 0, 0.91);
+  position: absolute;
+  left: 545px;
+  top: 110px;
+  width: 0px;
+  height: 0px;
+  z-index: 49;
+}
+.Ellipse_2_copy_2 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.1;
+  box-shadow: 0px 0px 72.24px 11.76px rgba(0, 0, 0, 0.91);
+  position: absolute;
+  left: 392px;
+  top: 198px;
+  width: 6px;
+  height: 6px;
+  z-index: 48;
+}
+.Ellipse_2_copy {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.1;
+  box-shadow: 0px 0px 72.24px 11.76px rgba(0, 0, 0, 0.91);
+  position: absolute;
+  left: 244px;
+  top: 158px;
+  width: 0px;
+  height: 0px;
+  z-index: 47;
+}
+.Ellipse_2 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.1;
+  box-shadow: 0px 0px 72.24px 11.76px rgba(0, 0, 0, 0.91);
+  position: absolute;
+  left: 93px;
+  top: 173px;
+  width: 0px;
+  height: 0px;
+  z-index: 46;
+}
+.Graph {
+  position: absolute;
+  left: 110px;
+  top: 221px;
+  width: 675px;
+  height: 314px;
+  z-index: 43;
+}
+.Shape_1 {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.02;
+  position: absolute;
+  left: 0px;
+  top: 98px;
+  width: 674px;
+  height: 188px;
+  z-index: 42;
+}
+.Rectangle_2_copy_2 {
+  background-color: rgb(14, 23, 30);
+  opacity: 0.059;
+  position: absolute;
+  left: 98px;
+  top: 58px;
+  width: 453px;
+  height: 266px;
+  z-index: 41;
+}
+.Shape_1_copy {
+  background-image: -moz-linear-gradient( -103deg, rgb(98,148,248) 0%, rgb(84,28,169) 100%);
+  background-image: -webkit-linear-gradient( -103deg, rgb(98,148,248) 0%, rgb(84,28,169) 100%);
+  background-image: -ms-linear-gradient( -103deg, rgb(98,148,248) 0%, rgb(84,28,169) 100%);
+  position: absolute;
+  left: -209px;
+  top: 33px;
+  width: 1068px;
+  height: 388px;
+  z-index: 40;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 38;
+}
+.Rounded_Rectangle_3_copy {
+  background-color: rgb(37, 52, 67);
+  position: absolute;
+  left: 110px;
+  top: 221px;
+  width: 675px;
+  height: 58px;
+  z-index: 37;
+}
+.Rounded_Rectangle_3 {
+  border-radius: 4px;
+  background-color: rgb(35, 45, 56);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 30px;
+  top: 103px;
+  width: 675px;
+  height: 372px;
+  z-index: 36;
+}
+.Top {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 33;
+}
+.Account {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 32;
+}
+.Shape_5_copy_2 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1479px;
+  top: 154px;
+  width: 11px;
+  height: 7px;
+  z-index: 31;
+}
+.Ertuğrul_Cevahir {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 1281.937px;
+  top: 26.85px;
+  z-index: 30;
+}
+.Ellipse_5_copy_9 {
+  border-radius: 50%;
+  background-color: rgb(89, 41, 176);
+  opacity: 0.502;
+  position: absolute;
+  left: 1223px;
+  top: 10px;
+  width: 53px;
+  height: 53px;
+  z-index: 29;
+}
+.Ellipse_5_copy_10 {
+  border-radius: 50%;
+  background-color: rgb(215, 68, 195);
+  opacity: 0.2;
+  position: absolute;
+  left: 1223px;
+  top: 10px;
+  width: 53px;
+  height: 53px;
+  z-index: 28;
+}
+.Ellipse_1 {
+  border-radius: 50%;
+  background-color: rgb(25, 35, 44);
+  position: absolute;
+  left: 1227px;
+  top: 15px;
+  width: 43px;
+  height: 43px;
+  z-index: 27;
+}
+.Menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 25;
+}
+.Online_Support {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1074.937px;
+  top: 28.1px;
+  z-index: 24;
+}
+.Loan {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1014.937px;
+  top: 28.1px;
+  z-index: 23;
+}
+.Recent_Transactions1{
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 851.937px;
+  top: 28.1px;
+  z-index: 22;
+}
+.Payments {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 758.937px;
+  top: 28.1px;
+  z-index: 21;
+}
+.Transfers1 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 669.795px;
+  top: 28.1px;
+  z-index: 20;
+}
+.Dashboard1 {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgb(0, 138, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 567.937px;
+  top: 28.1px;
+  z-index: 19;
+}
+.Search {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 17;
+}
+.Rounded_Rectangle_9 {
+  color: rgb(191, 206, 251);
+  opacity: 0.2;
+  position: absolute;
+  left: 96px;
+  top: 24px;
+  width: 18px;
+  height: 18px;
+  z-index: 16;
+}
+.Search_payment__transfer__transaction___ {
+  font-size: 14px;
+  font-family: "MuseoSans";
+  color: rgba(191, 206, 251, 0.2);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 130.134px;
+  top: 26.85px;
+  z-index: 15;
+}
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 13;
+}
+.Shape_6 {
+  background-image: -moz-linear-gradient( 69deg, rgb(251,71,71) 0%, rgb(201,66,245) 100%);
+  background-image: -webkit-linear-gradient( 69deg, rgb(251,71,71) 0%, rgb(201,66,245) 100%);
+  background-image: -ms-linear-gradient( 69deg, rgb(251,71,71) 0%, rgb(201,66,245) 100%);
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  left: 24px;
+  top: 19px;
+  width: 42px;
+  height: 35px;
+  z-index: 12;
+}
+.Base {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 10;
+}
+.Rounded_Rectangle_1_copy_2 {
+  background-color: rgb(26, 37, 45);
+  opacity: 0.502;
+  position: absolute;
+  left: 88px;
+  top: 0px;
+  width: 43px;
+  height: 71px;
+  z-index: 9;
+}
+.Rounded_Rectangle_1_copy {
+  background-color: rgb(37, 52, 67);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1440px;
+  height: 71px;
+  z-index: 8;
+}
+.BG {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 1200px;
+  z-index: 5;
+}
+.Rounded_Rectangle_1_copy_3 {
+  border-radius: 10px;
+  background-color: rgb(32, 42, 52);
+  box-shadow: 0px 20px 70px 0px rgba(0, 0, 0, 0.53),0px 33px 46px 0px rgba(0, 0, 0, 0.24);
+  position: absolute;
+  left: 80px;
+  top: 120px;
+  width: 1440px;
+  height: 960px;
+  z-index: 4;
+}
